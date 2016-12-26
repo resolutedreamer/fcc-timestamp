@@ -1,12 +1,12 @@
 {
   "name": "timestamp",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Free Code Camp API Basejump: Timestamp microservice",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Anthony Nguyen",
   "license": "ISC",
   "dependencies": {
     "express": "^4.14.0"
