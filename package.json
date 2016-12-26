@@ -1,13 +1,24 @@
 {
-  "name": "timestamp",
-  "version": "1.0.0",
-  "description": "Free Code Camp API Basejump: Timestamp microservice",
-  "main": "server.js",
+  "name": "resolutedreamer-timestamp",
+  "version": "1.0.1",
+  "description": "Free Code Camp timestamp microservice",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
   "author": "Anthony Nguyen",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/resolutedreamer/fcc-timestamp.git"
+  },
+  "keywords": [
+    "timestamp"
+  ],
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/resolutedreamer/fcc-timestamp/issues"
+  },
+  "homepage": "https://github.com/resolutedreamer/fcc-timestamp#readme",
   "dependencies": {
     "express": "^4.14.0"
   }
