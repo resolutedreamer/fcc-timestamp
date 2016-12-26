@@ -1,6 +1,6 @@
 {
   "name": "resolutedreamer-timestamp",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Free Code Camp timestamp microservice",
   "main": "index.js",
   "scripts": {
