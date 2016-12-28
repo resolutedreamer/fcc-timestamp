@@ -1,7 +1,7 @@
 {
   "name": "resolutedreamer-timestamp",
   "version": "1.0.4",
-  "description": "Free Code Camp - Timestamp Microservice",
+  "description": "Free Code Camp - Timestamp Microservice, Implemented by Anthony C. Nguyen",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
